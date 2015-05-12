@@ -1,0 +1,1 @@
+implements a java class intended to manage SOAP calls to Zimbra webservice
